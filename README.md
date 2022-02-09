@@ -4,11 +4,18 @@
 
 ## 文本预处理
 
-可以直接运行nlp_utils.py文件
+这里将文本处理分为两类，一类是文件相关处理，一类是文本相关处理
+
+在文本处理中又分了三个类:词、句、段
+
 
 ## 需要用到的Python包
 放在了require.txt中，包括以下包
 
 jieba
+
 unicodedata
+
 sklearn
+
+zhconv
