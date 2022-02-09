@@ -6,3 +6,9 @@
 
 可以直接运行nlp_utils.py文件
 
+## 需要用到的Python包
+放在了require.txt中，包括以下包
+
+jieba
+unicodedata
+sklearn
